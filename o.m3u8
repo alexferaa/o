@@ -35,6 +35,10 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/SS1_Crop.jpg/revision/latest?cb=20170728060439",Star Sports 1
 https://live.peotv.com/bpk-tv/041/output/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.code-crafters.app/key?payload=gAAAAABkv4LEM6daKG1oxEq3CH8FBvZ6Mq7qLfRdn0Dw3DMEmj4U5fBdMCDXH0YMb_yi3WyVU-2av9nXgEkHn4_7U71xmlm0cU7FklC2wglAct_kdX0H-pZJewdt3Fn6bKpvPndz5n46nRY7oty-B1tkDMiikI3J7wiefW77MTmzGX_SFMngyKQ=
+#EXTINF:-1 tvg-id="ts78" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1 HD TATA
+https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_250/output/manifest.mpd
 #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/stersports1hd.jpg",Star Sports 1 HD 
 http://103.209.173.14:9999/crafthub/gAAAAABkwW-D-nP_dv9LWtQCf_wOFIFll5nRDCEbCfWYsbC786hGDj0H9zqhGa6MiykCevsK8Ib19ooChb8o9JEv8VucRTHjMQ==/index.m3u8 
 #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/ster-sport-2hd.png",Star Sports 2 HD 
