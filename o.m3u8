@@ -22,7 +22,6 @@ https://live.peotv.com/bpk-tv/096/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniQEEhQyN3Ciy5xzATt8BO-UI_p1h80vInipBJP=s900-c-k-c0x00ffffff-no-rj",Jayamaga TV
 https://live.peotv.com/bpk-tv/094/output/index.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://www.ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png",Ten Cricket
 https://live.peotv.com/bpk-tv/044/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://medianet.mv/media/channel/178x0-icon.png",Sony Ten 1 HD
@@ -112,8 +111,6 @@ https://live.peotv.com/bpk-tv/052/output/index.m3u8
 http://103.209.173.14:9999/crafthub/gAAAAABkwW-Dr1gn-EocP_SzF1IiGojSDEeFxzgSDvpvUcaG-wOSQu44xm64oCdlrBwn8Cbz1Cw14DyGWJka78cmZ1zLWm4hYw==/index.m3u8 
 #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/wild.png",National Geographic WILD HD 
 http://103.209.173.14:9999/crafthub/gAAAAABkwW-DMfN0P0gXSsE9fY0d1oIDFGxdZBBiwJWy7SFAxPKZsf5xdyhRUedqQcfdl4FZaMfg66STxr9lqmLW-viCSVQYHg==/index.m3u8 
-
-
 
 #EXTINF:-1 tvg-logo="http://103.209.173.14:9999/img/romedy.png",Romedy NOW 
 http://103.209.173.14:9999/crafthub/gAAAAABkwW-DowDrpASLYGFVIsJ-jn9eFfbhzpEujTYGtChsvZFw-fvie_UZQDUs4PvfePplUy9-_1vOTIAuHSfVaBskFHzEaA==/index.m3u8 
